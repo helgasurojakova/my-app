@@ -1,0 +1,31 @@
+.menu-side-wrapper {
+    display: flex;
+}
+
+.menu {
+    width: 48px;
+    background: #82B284;
+    height: 900px;
+
+}
+
+.menu__buttons {
+    height: 900px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+}
+    
+
+.menu__buttons__upper-icon, .menu__buttons__bottom-icon {
+    width: 48px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu__buttons__upper-icon:hover, .menu__buttons__bottom-icon:hover {
+    background: #A4C7A5;
+;
+}

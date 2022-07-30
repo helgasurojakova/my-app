@@ -1,0 +1,23 @@
+.frame {
+    height: 900px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.frame__main-block {
+    padding-left: 40px;
+    padding-right: 40px;
+    display: flex;
+    flex-direction: column;
+    height: 828px;
+}
+
+.frame__main-block__title {
+    display: flex;
+    padding-top: 24px;
+}
+
+.frame__main-block__title__text {
+    margin-right: 14px;
+}
