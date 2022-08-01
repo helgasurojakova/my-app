@@ -1,5 +1,4 @@
 import './UI.css';
-import React, {useState} from 'react';
 
 type Params = {
     title: string;

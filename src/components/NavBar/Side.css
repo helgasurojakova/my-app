@@ -30,6 +30,7 @@
 .side__button__content__text {
     margin-left: 13px;
     width: 90px;
+    color: #82B284;
 }
 
 .side__header {
@@ -43,7 +44,6 @@
 .side__header_bold {
     font-weight: 700;
     font-size: 16px;
-    /* line-height: 160%; */
     width: 145px;
     font-family: 'Noto Sans';
 }
@@ -51,7 +51,6 @@
 .side__header_normal {
     font-weight: 400;
     font-size: 12px;
-    /* line-height: 160%; */
     width: 135px;
     font-family: 'Noto Sans';
 }

@@ -4,7 +4,6 @@ import RefreshButton from '../UI/RefreshButton';
 import ReturnButton from '../UI/ReturnButton';
 import './FrameToolbar.css';
 import { useNavigate, useLocation } from 'react-router-dom';
-import { API } from '../../API/Service';
 
 type Params = {
   path: string

@@ -26,10 +26,6 @@
     width: 150px;
 }
 
-.info__properties__values {
-    
-}
-
 .contact {
     border-bottom: 1px solid #E5E5E5;
     height: 130px;
@@ -56,10 +52,6 @@
 
 .contact__properties__names {
     width: 150px;
-}
-
-.contact__properties__values {
-    
 }
 
 .images {

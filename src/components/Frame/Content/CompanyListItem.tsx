@@ -1,5 +1,4 @@
 import './Content.css';
-import { useNavigate } from 'react-router-dom';
 
 type Params = {
     onClick: any;

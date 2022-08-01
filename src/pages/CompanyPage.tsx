@@ -1,9 +1,5 @@
-import { useState } from 'react';
-import CompanyList from '../components/Frame/Content/CompanyList';
 import Frame from '../components/Frame/Frame';
 import '../App.css';
-import { API } from '../API/Service';
-
 
 function CompanyPage() {
     return (

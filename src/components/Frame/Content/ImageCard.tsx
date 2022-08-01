@@ -1,4 +1,3 @@
-import EditButton from '../../UI/EditButton';
 import './Content.css';
 
 type Params = {
